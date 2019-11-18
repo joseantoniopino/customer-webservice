@@ -17,3 +17,5 @@ el contenido del csv.
 #### Librerías utilizadas
 Tan solo se ha utilizado una librería externa al ecosistema de Laravel, la cual ya está en el composer
 y se puede descargar desde github aquí -> [SoapBox](https://github.com/SoapBox/laravel-formatter)
+
+El archivo xml se puede encontrar en public/data/data.xml y el csv resultante se guardará en storage/app/reports
