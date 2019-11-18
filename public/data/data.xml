@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<readings>
+	<reading clientID="1" name="Taylor Glover" phone="463-170-9623 x156" company="Cargill">Taylor.Glover@gmail.com</reading>
+	<reading clientID="2" name="Billy Burnett" phone="493-170-9623 x156" company="Kock Industries">Billy.Burnett@gmail.com</reading>
+	<reading clientID="3" name="Emilie Kaiser" phone="493-170-9623 x156" company="Dell">Emilie.Kaiser@gmail.com</reading>
+	<reading clientID="4" name="Eli Patrick" phone="497-170-9623 x156" company="Bechtel">Eli.Patrick@gmail.com</reading>
+	<reading clientID="5" name="Lina Glenn" phone="493-177-9623 x156" company="Mars">Lina.Glenn@gmail.com</reading>
+	<reading clientID="6" name="Renee Salazar" phone="443-170-9623 x156" company="PricewaterhouseCoopers">Renee.Salazar@gmail.com</reading>
+	<reading clientID="7" name="Gina Mohammed" phone="494-170-9623 x156" company="Pilot Flying">Gina.Mohammed@gmail.com</reading>
+	<reading clientID="8" name="Vivian Redmond" phone="493-140-9623 x156" company="Public Super Markets">Vivian.Redmond@gmail.com</reading>
+	<reading clientID="9" name="Robin Plummer" phone="493-170-9423 x156" company="Love's Travel Stops">Robin.Plummer@gmail.com</reading>
+	<reading clientID="10" name="Charley Glass" phone="493-170-9643 x156" company="Ernst Young">Charley.Glass@gmail.com</reading>
+	<reading clientID="11" name="Kadie Ramsey" phone="493-150-9653 x156" company="Reyes Holdings">Kadie.Ramsey@gmail.com</reading>
+	<reading clientID="12" name="Hannah Thornton" phone="449-170-9623 x156" company="Wholesale Grocers">Hannah.Thornton@gmail.com</reading>
+	<reading clientID="13" name="Pearl Ball" phone="490-170-9623 x156" company="US Foods">Pearl.Ball@gmail.com</reading>
+	<reading clientID="14" name="Sanaa Lucas" phone="403-170-9623 x156" company="HE Butt Grocery">Sanaa.Lucas@gmail.com</reading>
+	<reading clientID="15" name="Jada Benson" phone="193-170-9623 x156" company="Enteprise Holdings">Jada.Benson@gmail.com</reading>
+	<reading clientID="16" name="Sheila Oakley" phone="413-170-9623 x156" company="TransMontaigne">Sheila.Oakley@gmail.com</reading>
+	<reading clientID="17" name="Reagan Hall" phone="491-170-9623 x156" company="Cox Enterprise">Reagan.Hall@gmail.com</reading>
+	<reading clientID="18" name="Nyah Cox" phone="393-170-9623 x156" company="Cumberland Farms">Nyah.Cox@gmail.com</reading>
+	<reading clientID="19" name="Iqra Nava" phone="433-170-9623 x156" company="Meijer">Iqra.Nava@gmail.com</reading>
+	<reading clientID="20" name="Kofi Dupont" phone="493-133-9623 x156" company="Aramark">Kofi.Dupont@gmail.com</reading>
+</readings>
